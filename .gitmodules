@@ -25,3 +25,6 @@
 [submodule "vim-javascript"]
 	path = vim-javascript
 	url = git://github.com/pangloss/vim-javascript.git
+[submodule "Dockerfile"]
+	path = Dockerfile
+	url = git@github.com:ekalinin/Dockerfile.vim.git
