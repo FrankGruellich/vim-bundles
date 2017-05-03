@@ -16,9 +16,6 @@
 [submodule "vim-unimpaired"]
 	path = vim-unimpaired
 	url = git://github.com/tpope/vim-unimpaired.git
-[submodule "YouCompleteMe"]
-	path = YouCompleteMe
-	url = git@github.com:Valloric/YouCompleteMe.git
 [submodule "tagbar"]
 	path = tagbar
 	url = git://github.com/majutsushi/tagbar.git
@@ -28,3 +25,6 @@
 [submodule "Dockerfile"]
 	path = Dockerfile
 	url = git@github.com:ekalinin/Dockerfile.vim.git
+[submodule "vim-markdown"]
+	path = vim-markdown
+	url = https://github.com/plasticboy/vim-markdown.git
