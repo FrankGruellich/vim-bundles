@@ -10,9 +10,6 @@
 [submodule "syntastic"]
 	path = syntastic
 	url = git://github.com/scrooloose/syntastic.git
-[submodule "vim-go"]
-	path = vim-go
-	url = git://github.com/fatih/vim-go.git
 [submodule "vim-unimpaired"]
 	path = vim-unimpaired
 	url = git://github.com/tpope/vim-unimpaired.git
